@@ -1,0 +1,1 @@
+What does a system call do?::It transfers control (jumps) into the OS while simultaneously raising the [[Hardware privilege|hardware privilege level]].
